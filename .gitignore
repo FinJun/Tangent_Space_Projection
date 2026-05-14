@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+*.egg
+.eggs/
+
+# Results and logs
+results/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large files)
+data_pipeline/processed_data/
+*.csv
